@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<configuracion><ip>190.188.82.71</ip><multicast>225.1.9.81</multicast><tiempo>2</tiempo><delta_tiempo>300</delta_tiempo><tiempo_host>1</tiempo_host><puerto>1981</puerto><dir_datos_host>../</dir_datos_host></configuracion>
